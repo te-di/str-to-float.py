@@ -20,8 +20,8 @@ eval() would do) or math functions. Such inputs are treated as non-numeric
 and conversion is not attempted.
 
 Examples of conversion:
-input string: '-+3', converted: -3.0
-input string: '((-(-3)))', converted: 3.0
-input string: '-3(.3)', converted: -3.3  
+            input string: '-+3', converted: -3.0
+            input string: '((-(-3)))', converted: 3.0
+            input string: '-3(.3)', converted: -3.3  
   
 (Inspired by a calculator)
